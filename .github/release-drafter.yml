@@ -1,4 +1,4 @@
-name-template: 'v$RESOLVED_VERSION 🌈'
+name-template: 'Playground v$RESOLVED_VERSION 🌈'
 tag-template: 'v$RESOLVED_VERSION'
 categories:
   - title: '🚀 Features'
@@ -26,6 +26,6 @@ version-resolver:
       - 'patch'
   default: patch
 template: |
-  ## Changes
+  ## Whats Changed
 
   $CHANGES
