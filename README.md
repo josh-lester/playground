@@ -13,3 +13,5 @@ a bug
 feature 2
 
 features
+
+hotfix
