@@ -11,3 +11,5 @@ feature 1
 a bug
 
 feature 2
+
+features
