@@ -7,3 +7,5 @@ release drafter
 testing some more
 
 feature 1
+
+a bug
