@@ -1,6 +1,6 @@
 # playground
 
-![Build](https://github.com/josh-lester/playground/workflows/Test-CI/badge.svg)
+![Test-CI](https://github.com/josh-lester/playground/workflows/Test-CI/badge.svg)
 
 release drafter
 
